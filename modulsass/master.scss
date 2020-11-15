@@ -1,0 +1,199 @@
+$bgcl1:rgb(238, 164, 80);
+$bgcl2:rgb(199, 88, 61);
+$bgcl3:rgb(43, 221, 245);
+$number1:20px;
+$align1:center;
+$mycolour:white;
+$bgcl4:rgb(194, 196, 87);
+$bgcl5:rgb(110, 70, 138);
+
+
+.navbar{
+    ul{
+        list-style-type:none;
+        margin:0;
+        padding:0;
+        overflow:hidden;
+        background-color:$bgcl4;
+    }
+    li{
+        float:left;
+        margin-right:$number1;
+        font-size: 28pt;
+    }
+    li a{
+        display:block;
+        color:#333;
+        text-align:$align1;
+        padding:14px $number1;
+        text-decoration:none;
+        font-family:TW Cen MT Condensed;
+        font-weight:bolder;
+    }
+    li a:hover{
+        background-color: $mycolour
+    }
+}
+
+.home{
+    h1{
+        list-style-type:none;
+        margin:0;
+        padding:50px;
+        text-align:$align1;
+        overflow:hidden;
+        background-color:$bgcl1;
+        font-family: TW Cen MT Condensed;
+        font-weight:bolder;
+        font-size:64pt;
+        
+    }
+    h2{
+        list-style-type:none;
+        margin:0;
+        padding:200px;
+        text-align:left;
+        overflow:hidden;
+        background-color:$bgcl1;
+        font-family: TW Cen MT Condensed;
+        font-weight:bolder;
+        font-size:48pt;
+        color:white;
+        height:auto;
+        background-image:url(https://twinfinite.net/wp-content/uploads/2019/11/ghost-scaled.jpg);
+    }
+    p{
+        list-style-type:none;
+        margin:0;
+        padding:80px;
+        text-align:$align1;
+        overflow:hidden;
+        background-color:$bgcl5;
+        font-family: TW Cen MT Condensed;
+        font-weight:bolder;
+        font-size:30pt;
+        color:white;
+    }
+    li{
+        float:left;
+        margin-right:$number1;
+    }
+    li a{
+        display:block;
+        color:#333;
+        text-align:$align1;
+        padding:14px $number1;
+        text-decoration:none;
+    }
+}
+
+.about{
+    p{
+        list-style-type:none;
+        margin:0;
+        padding:45px;
+        overflow:hidden;
+        background-color:$bgcl2;;
+        height:auto;
+        font-family: TW Cen MT Condensed;
+        font-weight:bolder;
+        font-size:28pt;
+        text-align: center;
+    }
+    li{
+        float:left;
+        margin-right:$number1;
+    }
+    li a{
+        display:block;
+        color:#333;
+        padding:14px $number1;
+        text-decoration:none;
+    }
+
+}
+
+.gallery{
+    p{
+        list-style-type:none;
+        margin:0;
+        padding:30px;
+        overflow:hidden;
+        background-color:$bgcl1;
+        text-align:center;
+        font-family: TW Cen MT Condensed;
+        font-weight:bolder;
+        font-size:64pt;
+    }
+    li{
+        float:left;
+        margin-right:$number1;
+    }
+    li a{
+        display:block;
+        color:#333;
+        text-align:$align1;
+        padding:14px $number1;
+        text-decoration:none;
+    }
+    .column {
+        float: center;
+        width: 25%;
+        padding: 10px;
+        margin-left: 645px;
+        
+    }
+    .column img {
+        opacity: 0.8;
+        cursor: pointer;
+        
+    } 
+    .column img:hover {
+        opacity: 1;
+        
+    }
+    .row:after {
+        content: "";
+        display: table;
+        clear: both;
+       
+    }
+    background-color: grey;
+}
+
+.contact{
+    p{
+        list-style-type:none;
+        margin:0;
+        padding:30px;
+        overflow:hidden;
+        background-color:$bgcl1;
+        text-align:center;
+        font-family: TW Cen MT Condensed;
+        font-weight:bolder;
+        font-size:64pt;
+    }
+    ul{
+        list-style-type:none;
+        margin:0;
+        padding:0;
+        overflow:hidden;
+        background-color:$bgcl4;
+    }
+    li{
+        float: auto;
+        margin-right:$number1;
+        font-size: 28pt;
+    }
+    li a{
+        display:block;
+        color:#333;
+        text-align:$align1;
+        padding:14px $number1;
+        text-decoration:none;
+        font-family:TW Cen MT Condensed;
+        
+    }
+
+}
+

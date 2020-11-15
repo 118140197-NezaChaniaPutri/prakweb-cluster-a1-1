@@ -1,0 +1,174 @@
+.navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #c2c457;
+}
+.navbar li {
+  float: left;
+  margin-right: 20px;
+  font-size: 28pt;
+}
+.navbar li a {
+  display: block;
+  color: #333;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
+  font-family: TW Cen MT Condensed;
+  font-weight: bolder;
+}
+.navbar li a:hover {
+  background-color: white;
+}
+
+.home h1 {
+  list-style-type: none;
+  margin: 0;
+  padding: 50px;
+  text-align: center;
+  overflow: hidden;
+  background-color: #eea450;
+  font-family: TW Cen MT Condensed;
+  font-weight: bolder;
+  font-size: 64pt;
+}
+.home h2 {
+  list-style-type: none;
+  margin: 0;
+  padding: 200px;
+  text-align: left;
+  overflow: hidden;
+  background-color: #eea450;
+  font-family: TW Cen MT Condensed;
+  font-weight: bolder;
+  font-size: 48pt;
+  color: white;
+  height: auto;
+  background-image: url(https://twinfinite.net/wp-content/uploads/2019/11/ghost-scaled.jpg);
+}
+.home p {
+  list-style-type: none;
+  margin: 0;
+  padding: 80px;
+  text-align: center;
+  overflow: hidden;
+  background-color: #6e468a;
+  font-family: TW Cen MT Condensed;
+  font-weight: bolder;
+  font-size: 30pt;
+  color: white;
+}
+.home li {
+  float: left;
+  margin-right: 20px;
+}
+.home li a {
+  display: block;
+  color: #333;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
+}
+
+.about p {
+  list-style-type: none;
+  margin: 0;
+  padding: 45px;
+  overflow: hidden;
+  background-color: #c7583d;
+  height: auto;
+  font-family: TW Cen MT Condensed;
+  font-weight: bolder;
+  font-size: 28pt;
+  text-align: center;
+}
+.about li {
+  float: left;
+  margin-right: 20px;
+}
+.about li a {
+  display: block;
+  color: #333;
+  padding: 14px 20px;
+  text-decoration: none;
+}
+
+.gallery {
+  background-color: grey;
+}
+.gallery p {
+  list-style-type: none;
+  margin: 0;
+  padding: 30px;
+  overflow: hidden;
+  background-color: #eea450;
+  text-align: center;
+  font-family: TW Cen MT Condensed;
+  font-weight: bolder;
+  font-size: 64pt;
+}
+.gallery li {
+  float: left;
+  margin-right: 20px;
+}
+.gallery li a {
+  display: block;
+  color: #333;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
+}
+.gallery .column {
+  float: center;
+  width: 25%;
+  padding: 10px;
+  margin-left: 645px;
+}
+.gallery .column img {
+  opacity: 0.8;
+  cursor: pointer;
+}
+.gallery .column img:hover {
+  opacity: 1;
+}
+.gallery .row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.contact p {
+  list-style-type: none;
+  margin: 0;
+  padding: 30px;
+  overflow: hidden;
+  background-color: #eea450;
+  text-align: center;
+  font-family: TW Cen MT Condensed;
+  font-weight: bolder;
+  font-size: 64pt;
+}
+.contact ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #c2c457;
+}
+.contact li {
+  float: auto;
+  margin-right: 20px;
+  font-size: 28pt;
+}
+.contact li a {
+  display: block;
+  color: #333;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
+  font-family: TW Cen MT Condensed;
+}
+
+/*# sourceMappingURL=master.css.map */
