@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <nama>
+    <awal>Rahmat</awal>
+    <akhir>Ramadhan</akhir>
+  </nama>
+
+  <jenisKelamin>Laki-laki</jenisKelamin>
+
+  <saudara>
+    <satu>Bunga Janati</satu>
+    <dua>Nurul Aini</dua>
+    <tiga>M. Satria</tiga>
+  </saudara>
+
+  <orangtua>
+    <ayah>Bahsan</ayah>
+    <ibu>Jumaida</ibu>
+  </orangtua>
+
+  <hobi>
+    <pertama>Memasak</pertama>
+    <kedua>Membuat Desain Grafis</kedua>
+    <ketiga>Bermain Game</ketiga>
+  </hobi>
+
+  <alamat>Teluk Betung Utara, Bandar Lampung, Lampung</alamat>
+  
+  <sosmed>
+    <instagram>rahmatramadh17</instagram>
+    <line>rahmataramadh17</line>
+  </sosmed>
+</root>

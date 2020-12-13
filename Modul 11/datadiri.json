@@ -1,0 +1,28 @@
+{
+	"root": {
+		"nama": {
+			"awal": "Rahmat",
+			"akhir": "Ramadhan"
+		},
+		"jenisKelamin": "Laki-laki",
+		"saudara": {
+            "satu": "Bunga Janati",
+            "dua": "Nurul Aini",
+            "tiga": "M. Satria"
+		},
+		"orangtua": {
+			"ayah": "Bahsan",
+			"ibu": "Jumaida"
+		},
+		"hobi": {
+			"kesatu": "Memasak",
+			"kedua": "Membuat Desain",
+			"ketiga": "Bermain Game"
+		},
+		"alamat": "Teluk Betung Utara, Bandar Lampung, Lampung",
+		"sosmed": {
+			"instagram": "rahmatramadh17",
+			"LINE": "rahmatramadh17"
+		}
+	}
+}
